@@ -1,0 +1,1 @@
+## $$\int a \ \cdot f(x)  \ dx = a \int f(x) \ dx$$

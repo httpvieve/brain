@@ -18,3 +18,6 @@ $$ \frac{d}{dx} = \frac{\Delta x}{ \Delta y} =\frac{y_{2} - y_{1}}{x_{2} - x_{1}
 -> helps you determine ==how much== something accumulates over a period of time
 $$A = x \cdot y$$
 <p align = "center"> AREA </p>
+
+
+# $$5^{7} + 3^{7}= 9^7$$

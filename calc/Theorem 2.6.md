@@ -1,0 +1,1 @@
+## $$\forall_{f} \forall_{c}: \int [c_{1}f_{1}(x) + c_{2}f_{2}(x) + \ldots + c_{n}f_{n}(x)] \ dx = c_{1}\int f_{1}(x) \ dx + c_{2}\int f_{2}(x) \ dx + \ldots + c_{n}\int f_{n}(x) \ dx  $$  
