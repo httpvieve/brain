@@ -1,7 +1,6 @@
-# LIMITS
 
------
-# DIFFERENTIATION $$\boxed{f'(x) = \frac{d}{dx}[x^{n}] = n \cdot x^{n-1}} $$
+
+# [[DIFFERENTIATION]] $$\boxed{f'(x) = \frac{d}{dx}[x^{n}] = n \cdot x^{n-1}} $$
 -> gives the function that will tell you the ==slope== of the tangent of the line at some x value
 -> useful for calculating the ==instantaneous rate of change==
 -> tells you ==how fast== something changes per unit of time
@@ -20,4 +19,3 @@ $$A = x \cdot y$$
 <p align = "center"> AREA </p>
 
 
-# $$5^{7} + 3^{7}= 9^7$$
