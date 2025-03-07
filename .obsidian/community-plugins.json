@@ -15,5 +15,7 @@
   "obsidian-tasks-plugin",
   "quickadd",
   "quick-latex",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-wakatime",
+  "obsidian-reminder-plugin"
 ]

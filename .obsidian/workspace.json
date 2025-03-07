@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9682bc667e07b95b",
+            "id": "aa5bbc60de0b7aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas.md",
+                "file": "2025-03-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "2025-03-05"
+            }
+          },
+          {
+            "id": "c7c6260e903423ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Work/codebase/snapgrc/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rendering Techniques.md",
+                "file": "2025-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rendering Techniques"
+              "title": "Backlinks for 2025-03-05"
             }
           },
           {
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rendering Techniques.md",
+                "file": "2025-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rendering Techniques"
+              "title": "Outgoing links from 2025-03-05"
             }
           },
           {
@@ -127,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,10 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Ideas.md"
+                "file": "300 Work/codebase/snapgrc/notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Ideas"
+              "title": "Outline of notes"
             }
           },
           {
@@ -165,12 +186,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "50d0c6566ca196a9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "655ce16b7274fda6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "fd75cc3aae7b05e7",
@@ -190,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,47 +248,50 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "9682bc667e07b95b",
+  "active": "fd69cd2857150a88",
   "lastOpenFiles": [
-    "calc/CALCULUS INDEX.md",
-    "Project Ideas.md",
-    "calc/INTEGRATION.md",
-    "calc/Indefinite Integrals.md",
-    "web-dev/Rendering Techniques.md",
-    "calc/Trigonometric Integrals.md",
-    "calc/Trigonometric Identities (REVIEW).md",
-    "calc/Theorem 2.6.md",
-    "calc/Theorem 2.1.md",
-    "CS50W Final Project.md",
-    "web-dev/JSX.md",
-    "calc/Theorem 2.7.md",
-    "calc/Theorem 2.5.md",
-    "calc/Theorem 2.4.md",
-    "calc/Theorem 2.2.md",
-    "_MISC/latex symbols.pdf",
+    "300 Work/source",
+    "300 Work/source/aws.md",
+    "300 Work/codebase/snapgrc/notes.md",
+    "300 Work/source/docker.md",
+    "300 Work/source/django-tenants.md",
+    "800 Templates/Work Notes.md",
+    "800 Templates/Work Task.md",
+    "300 Work/tasks/Map Service Integration.md",
+    "2025-W10.md",
+    "300 Work/codebase/bostad",
+    "300 Work/codebase/snapgrc",
+    "Untitled",
+    "2025-03-05.md",
+    "200 Todo/Untitled.md",
+    "500 Projects/portfolio/Portfolio Index.md",
     "Untitled.canvas",
+    "500 Projects/portfolio",
+    "900 DRAFT/JSX.md",
+    "400 Courses/web design",
+    "100 Notes/machine learning",
+    "900 DRAFT",
+    "900 DRAFT/Rendering Techniques.md",
+    "100 Notes/maths/calc/INTEGRATION.md",
+    "100 Notes/maths/calc/Indefinite Integrals.md",
+    "100 Notes/maths/calc/CALCULUS INDEX.md",
+    "000 Index/research scratch.md",
+    "400 Courses",
+    "000 Index/active tasks and todos.md",
+    "100 Notes/webdev",
+    "100 Notes/maths",
+    "Apartment.md",
+    "Pasted image 20241212043159.png",
+    "Code space.md",
+    "Final Project.md",
+    "Project Ideas.md",
+    "bWise.md",
+    "100 Notes/maths/calc/Trigonometric Integrals.md",
+    "100 Notes/maths/calc/Trigonometric Identities (REVIEW).md",
     "_MISC/Pasted image 20240516055500.png",
-    "web-dev",
-    "smart-chats/temp brain.md",
-    "calc/ST-MATH_Definite_Integral_and_Integration.pdf",
     "Pasted image 20240516224648.png",
     "Pasted image 20240516222904.png",
-    "calc/Theorem 2.3.md",
-    "_MISC",
-    "smart-chats/UNTITLED CHAT 2024-05-14 15 43 52.md",
-    "calc",
     "Pasted image 20240516055431.png",
-    "Pasted image 20240516055410.png",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
-    "smart-chats",
-    "Untitled 1",
-    "AngularJS Crash Course.md",
-    "Welcome.md",
-    "das.md"
+    "Pasted image 20240516055410.png"
   ]
 }
