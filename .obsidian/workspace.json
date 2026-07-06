@@ -11,14 +11,10 @@
             "id": "aa5bbc60de0b7aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-03-05.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-05"
+              "title": "New tab"
             }
           },
           {
@@ -27,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Work/codebase/snapgrc/notes.md",
+                "file": "200 Todo/SCRUM-1058.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "SCRUM-1058"
+            }
+          },
+          {
+            "id": "860be58af4def512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Todo/SCRUM-863.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCRUM-863"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Work/codebase/snapgrc/notes.md",
+                "file": "200 Todo/Unified Control Framework - Conflict Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes"
+              "title": "Outline of Unified Control Framework - Conflict Management"
             }
           },
           {
@@ -191,7 +201,17 @@
             }
           },
           {
-            "id": "50d0c6566ca196a9",
+            "id": "655ce16b7274fda6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "422f2e887c67a090",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -199,19 +219,9 @@
               "icon": "clock",
               "title": "Reminders"
             }
-          },
-          {
-            "id": "655ce16b7274fda6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "fd75cc3aae7b05e7",
@@ -235,6 +245,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -243,51 +254,51 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "graph:Open graph view": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-projects:Open projects": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "fd69cd2857150a88",
+  "active": "860be58af4def512",
   "lastOpenFiles": [
+    "200 Todo/SCRUM-1058.md",
+    "200 Todo/SCRUM-863.md",
+    "100 Notes/maths/calc/Trigonometric Integrals.md",
+    "100 Notes/maths/calc/Theorem 2.2.md",
+    "100 Notes/maths/calc/Theorem 2.1.md",
+    "100 Notes/maths/calc/ST-MATH_Definite_Integral_and_Integration.pdf",
+    "100 Notes/maths/calc/INTEGRATION.md",
+    "100 Notes/maths/calc/Indefinite Integrals.md",
+    "100 Notes/maths/calc/CALCULUS INDEX.md",
+    "000 Index/research scratch.md",
+    "000 Index/active tasks and todos.md",
+    "800 Templates/Work Notes.md",
+    "700 Source/latex symbols.pdf",
+    "300 Work/tasks/Map Service Integration.md",
+    "200 Todo/Unified Control Framework - Conflict Management.md",
+    "2025-W10.md",
+    "800 Templates/Work Task.md",
+    "900 DRAFT/Rendering Techniques.md",
+    "900 DRAFT/JSX.md",
     "300 Work/source",
     "300 Work/source/aws.md",
     "300 Work/codebase/snapgrc/notes.md",
     "300 Work/source/docker.md",
     "300 Work/source/django-tenants.md",
-    "800 Templates/Work Notes.md",
-    "800 Templates/Work Task.md",
-    "300 Work/tasks/Map Service Integration.md",
-    "2025-W10.md",
     "300 Work/codebase/bostad",
     "300 Work/codebase/snapgrc",
     "Untitled",
     "2025-03-05.md",
-    "200 Todo/Untitled.md",
     "500 Projects/portfolio/Portfolio Index.md",
     "Untitled.canvas",
     "500 Projects/portfolio",
-    "900 DRAFT/JSX.md",
     "400 Courses/web design",
     "100 Notes/machine learning",
     "900 DRAFT",
-    "900 DRAFT/Rendering Techniques.md",
-    "100 Notes/maths/calc/INTEGRATION.md",
-    "100 Notes/maths/calc/Indefinite Integrals.md",
-    "100 Notes/maths/calc/CALCULUS INDEX.md",
-    "000 Index/research scratch.md",
-    "400 Courses",
-    "000 Index/active tasks and todos.md",
-    "100 Notes/webdev",
-    "100 Notes/maths",
     "Apartment.md",
     "Pasted image 20241212043159.png",
     "Code space.md",
     "Final Project.md",
-    "Project Ideas.md",
-    "bWise.md",
-    "100 Notes/maths/calc/Trigonometric Integrals.md",
-    "100 Notes/maths/calc/Trigonometric Identities (REVIEW).md",
     "_MISC/Pasted image 20240516055500.png",
     "Pasted image 20240516224648.png",
     "Pasted image 20240516222904.png",
